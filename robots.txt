@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://eugeniofm.github.io/sitemap.xml
