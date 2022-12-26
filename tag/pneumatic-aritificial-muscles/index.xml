@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pneumatic Aritificial Muscles | Eugenio Frias Miranda</title>
+    <link>https://github.com/eugeniofm/eugeniofm.git/tag/pneumatic-aritificial-muscles/</link>
+      <atom:link href="https://github.com/eugeniofm/eugeniofm.git/tag/pneumatic-aritificial-muscles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pneumatic Aritificial Muscles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/eugeniofm/eugeniofm.git/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Pneumatic Aritificial Muscles</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/tag/pneumatic-aritificial-muscles/</link>
+    </image>
+    
+    <item>
+      <title>The Folded Pneumatic Artificial Muscle (foldPAM)</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/project/foldpam/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/project/foldpam/</guid>
+      <description>&lt;p&gt;Soft pneumatic actuators have seen applications in many soft robotic systems, and their pressure-driven nature presents unique challenges and opportunities for controlling their motion. In this work, we present a new concept: designing and controlling pneumatic actuators via end geometry. We demonstrate a novel actuator class, named the folded Pneumatic Artificial Muscle (foldPAM), which features a thin-filmed air pouch that is symmetrically folded on each side. Varying the folded portion of the actuator changes the end constraints and, hence, the force-strain relationships. We investigated this change experimentally by measuring the force-strain relationship of individual foldPAM units with various lengths and amounts of folding. In addition to static-geometry units, an actuated foldPAM device was designed to produce continuous, on-demand adjustment of the end geometry, enabling closed-loop position control while maintaining constant pressure. Experiments with the device indicate that geometry control allows access to different areas on the force-strain plane and that closed-loop geometry control can achieve errors within 0.5% of the actuation range.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vine Robots | Eugenio Frias Miranda</title>
+    <link>https://github.com/eugeniofm/eugeniofm.git/tag/vine-robots/</link>
+      <atom:link href="https://github.com/eugeniofm/eugeniofm.git/tag/vine-robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vine Robots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/eugeniofm/eugeniofm.git/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vine Robots</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/tag/vine-robots/</link>
+    </image>
+    
+    <item>
+      <title>Localization of Vine Robot Through Obstacle Collision</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/project/localization/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/project/localization/</guid>
+      <description>&lt;p&gt;Collisions in robot navigation are conventionally avoided. However, complete obstacle avoidance is not always feasible within unstructured, unknown environments, like search and rescue, making life harder for rigid-bodied robots as they can become damaged by unintended collisions. On the other hand, robots with soft bodies which have compliant and deformable structures, can safely interact with the environment they are moving in. One specific soft robot, the vine robot, has exhibited excellent performance while moving through a constrained and unpredictable environment. The ability for these robots to safely interact with obstacles and use them for navigation has already been proved. In spite of this, localizing the robot remains an open challenge. In this research, we use our understanding of the nature of vine robot motion and the mathematical models developed for the same to be able to predict the tip position of the robot at every instant.&lt;/p&gt;
+&lt;p&gt;Using this localization model, we analyze the performance of the tip position prediction by observing its interaction with three obstacles. Through these interactions we found results with high quality tracking. Less than 5 percent error was observed on the path prediction (magnitude of error with respect to total length) of a 1.5-meter-long vine robot. It was also found that the accuracy of the localization model decreases with changes in pivot point. This highlights the needs for  (1) understanding the pivot position errors better, and (2) improving the pivot position detection by improving the contact sensor cap. This is accomplished by (1) an experimental setup allowing for the adjustment of individual variables which determine the pivot point, and (2) redesign of the robot cap with improved sensing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

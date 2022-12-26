@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eugenio Frias Miranda</title>
-    <link>https://eugeniofm.github.io/</link>
-      <atom:link href="https://eugeniofm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/eugeniofm/eugeniofm.git/</link>
+      <atom:link href="https://github.com/eugeniofm/eugeniofm.git/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Frias Miranda</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eugeniofm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/eugeniofm/eugeniofm.git/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenio Frias Miranda</title>
-      <link>https://eugeniofm.github.io/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://eugeniofm.github.io/talk/example-talk/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/talk/example-talk/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,39 @@
     </item>
     
     <item>
+      <title>A Soccer Playing Differential Drive Robot</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/project/me588/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/project/me588/</guid>
+      <description>&lt;p&gt;Differential drive robots are used in a variety of different applications, from playing basketball to mole-whacking. For this semester’s course of mechatronics we designed and implemented an autonomous differential drive soccer playing robot. The arena is divided into five different zones of the same size. In the game, robots will move autonomously to acquire a soccer ball which is placed randomly within zone 6 and score as many points as possible, noting that the further the ball is, the more points a goal is worth.
+Our strategy was placing the robot in the middle of the furthest zone facing the goal, drive to the edge of zone 8, sweep clockwise and counterclockwise looking for the ball using a Lidar sensor, once the ball is detected, intake it, return to the original location and shoot. Our ball intake mechanism used rollers and rubber bands to guide the ball towards the robot’s center, while our launcher used a choo-choo mechanism to compress springs, then release the spring to shoot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Folded Pneumatic Artificial Muscle (foldPAM)</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/project/foldpam/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/project/foldpam/</guid>
+      <description>&lt;p&gt;Soft pneumatic actuators have seen applications in many soft robotic systems, and their pressure-driven nature presents unique challenges and opportunities for controlling their motion. In this work, we present a new concept: designing and controlling pneumatic actuators via end geometry. We demonstrate a novel actuator class, named the folded Pneumatic Artificial Muscle (foldPAM), which features a thin-filmed air pouch that is symmetrically folded on each side. Varying the folded portion of the actuator changes the end constraints and, hence, the force-strain relationships. We investigated this change experimentally by measuring the force-strain relationship of individual foldPAM units with various lengths and amounts of folding. In addition to static-geometry units, an actuated foldPAM device was designed to produce continuous, on-demand adjustment of the end geometry, enabling closed-loop position control while maintaining constant pressure. Experiments with the device indicate that geometry control allows access to different areas on the force-strain plane and that closed-loop geometry control can achieve errors within 0.5% of the actuation range.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Localization of Vine Robot Through Obstacle Collision</title>
+      <link>https://github.com/eugeniofm/eugeniofm.git/project/localization/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/project/localization/</guid>
+      <description>&lt;p&gt;Collisions in robot navigation are conventionally avoided. However, complete obstacle avoidance is not always feasible within unstructured, unknown environments, like search and rescue, making life harder for rigid-bodied robots as they can become damaged by unintended collisions. On the other hand, robots with soft bodies which have compliant and deformable structures, can safely interact with the environment they are moving in. One specific soft robot, the vine robot, has exhibited excellent performance while moving through a constrained and unpredictable environment. The ability for these robots to safely interact with obstacles and use them for navigation has already been proved. In spite of this, localizing the robot remains an open challenge. In this research, we use our understanding of the nature of vine robot motion and the mathematical models developed for the same to be able to predict the tip position of the robot at every instant.&lt;/p&gt;
+&lt;p&gt;Using this localization model, we analyze the performance of the tip position prediction by observing its interaction with three obstacles. Through these interactions we found results with high quality tracking. Less than 5 percent error was observed on the path prediction (magnitude of error with respect to total length) of a 1.5-meter-long vine robot. It was also found that the accuracy of the localization model decreases with changes in pivot point. This highlights the needs for  (1) understanding the pivot position errors better, and (2) improving the pivot position detection by improving the contact sensor cap. This is accomplished by (1) an experimental setup allowing for the adjustment of individual variables which determine the pivot point, and (2) redesign of the robot cap with improved sensing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://eugeniofm.github.io/post/getting-started/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/post/getting-started/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -114,9 +143,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://eugeniofm.github.io/post/writing-technical-content/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/post/writing-technical-content/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -216,7 +245,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-751398642&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-698517432&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +255,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-751398642&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-698517432&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -508,9 +537,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://eugeniofm.github.io/publication/preprint/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/publication/preprint/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -522,9 +551,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://eugeniofm.github.io/post/jupyter/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/post/jupyter/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -581,9 +610,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://eugeniofm.github.io/slides/example/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/slides/example/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -705,31 +734,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>foldPAM</title>
-      <link>https://eugeniofm.github.io/project/foldpam/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/project/foldpam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Localization</title>
-      <link>https://eugeniofm.github.io/project/localization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/project/localization/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An example journal article</title>
-      <link>https://eugeniofm.github.io/publication/journal-article/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/publication/journal-article/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -746,9 +754,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://eugeniofm.github.io/publication/conference-paper/</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/publication/conference-paper/</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -765,9 +773,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://eugeniofm.github.io/admin/config.yml</link>
+      <link>https://github.com/eugeniofm/eugeniofm.git/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eugeniofm.github.io/admin/config.yml</guid>
+      <guid>https://github.com/eugeniofm/eugeniofm.git/admin/config.yml</guid>
       <description></description>
     </item>
     

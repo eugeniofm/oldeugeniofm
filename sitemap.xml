@@ -2,123 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eugeniofm.github.io/talk/example-talk/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/event/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/project/me588/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/other/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/personal/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/pneumatic-aritificial-muscles/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/project/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/research/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/robotics/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tags/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/project/foldpam/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/project/localization/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/soft-robotics/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/vine-robots/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/tag/academic/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/categories/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/category/demo/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/post/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/tags/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/post/getting-started/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/post/writing-technical-content/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication-type/3/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication/preprint/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication_types/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/tag/source-themes/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/post/jupyter/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/slides/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/slides/example/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/project/foldpam/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/project/localization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eugeniofm.github.io/publication-type/2/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication/journal-article/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication-type/1/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/publication/conference-paper/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eugeniofm.github.io/admin/</loc>
+    <loc>https://github.com/eugeniofm/eugeniofm.git/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
